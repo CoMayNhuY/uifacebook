@@ -1,0 +1,55 @@
+* {
+    font-family: inherit;
+}
+.container-fluid {
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
+}
+.col-sm-4 {
+    margin-top: 16px;
+}
+
+.logoFB {
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    margin-left: 30px;
+}
+.colstyle2 {
+}
+.colstyle3 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.fa-magnifying-glass {
+    color: white;
+}
+.fa-envelope,
+.fa-bell {
+    color: white;
+    font-size: 20px;
+    margin: 7px 10px;
+}
+.imgAvt {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin: -3px 10px;
+}
+.fa-circle {
+    position: relative;
+    display: flex;
+    color: rgb(206, 0, 0);
+    margin-top: -35px;
+    margin-left: 20px;
+}
+.fa-circle-number {
+    position: absolute;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+    margin: 4px 0 0 5px;
+    font-size: 9px;
+}
